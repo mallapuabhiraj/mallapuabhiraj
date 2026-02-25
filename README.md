@@ -151,10 +151,3 @@ A fully functional RPG battle engine built in pure Python — a testament to cle
 
 <p align="center">
   <i>⚡ "Recall over accuracy. Real-world impact over benchmark glory." ⚡</i>
-</p>![](https://nirzak-streak-stats.vercel.app/?user=mallapuabhiraj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mallapuabhiraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=mallapuabhiraj&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
