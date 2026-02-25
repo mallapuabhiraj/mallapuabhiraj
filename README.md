@@ -41,7 +41,6 @@ I don't just train models or flash firmware. I build **complete, production-mind
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
@@ -56,7 +55,7 @@ I don't just train models or flash firmware. I build **complete, production-mind
 **Embedded & Hardware**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Embedded C++](https://img.shields.io/badge/Embedded%20C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino C++](https://img.shields.io/badge/Embedded%20C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Databases, Frameworks & Tools**
 
